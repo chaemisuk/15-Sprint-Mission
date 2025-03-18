@@ -68,7 +68,6 @@ footer {
     .shopGuide__box--img { max-width: 100%; height: auto; }
     .shopGuide__box--info { justify-content:flex-start ;width: 100%;}
     .shopGuide__box--info { span {width: 50%;}} 
-      */
     .banner .inner {flex-grow: 1;}
     .banner__content { padding: 10rem 0 80%; }
     footer { font: var(--font_a_16); }
@@ -76,19 +75,14 @@ footer {
   }
   
   @media screen and (max-width: 767px) {
-
     .visual__content .btn_shopping {  width:calc(100% - 6.8rem); max-width: 35.7rem; }
-
     .shopGuide__box--info { span {width: 100%;}} 
-
-
     footer {position: relative;}
     footer>.inner { width: calc(100% - 10.4rem); min-width: 28rem;}
     footer .copyright {position: absolute; bottom: 4.25rem; color: var(--gray400)}
   }
   @media screen and (max-width: 320px) {
     body .unsupported-screen {
-  
       position: fixed;
       top: 0; bottom:0;
       left: 0; right:0;
