@@ -58,7 +58,7 @@ footer {
   ------------------------------------------------- */
   @media screen and (max-width: 1199px) {
     .header__top { width: calc(100% - 2.4rem);}
-    .shopGuide {padding: 2.4rem;}
+    .shopGuide {padding: 2.4rem 1.6rem;}
     .visual .inner { height: auto; flex-grow: 1; }
     .visual__content { width: 100%; }
     .visual__content, .banner__content { width: 100%; align-items: center; h2 {width: 31rem; word-break: keep-all;} }
@@ -75,6 +75,7 @@ footer {
   }
   
   @media screen and (max-width: 767px) {
+    .header__top { width: calc(100% - 1.6rem);}
     .visual__content .btn_shopping {  width:calc(100% - 6.8rem); max-width: 35.7rem; }
     .shopGuide__box--info { span {width: 100%;}} 
     footer {position: relative;}
