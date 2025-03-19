@@ -16,7 +16,7 @@
     .error-message { color: red; display: none; margin-top: 0.5rem; }
     }
   .btn_set { display: flex; flex-wrap: wrap; 
-    button { flex-grow: 1; padding: 1.6rem 0; background-color: var(--bg4); border-radius: 4rem; font: var(--font_r_14); color: var(--gray50); }
+    button { flex-grow: 1; padding: 1.6rem 0; background-color: var(--bg4); border-radius: 4rem; font: var(--font_a_16); color: var(--gray50); }
     button:hover {background-color: var(--bg4_hover);}
     button:active {background-color: var(--bg4_act);}
   }
