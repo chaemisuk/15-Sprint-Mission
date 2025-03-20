@@ -54,7 +54,7 @@ a.link_point { display: inline-block; text-decoration: underline;color: var(--pr
 a.link_point:hover { text-decoration: underline; color: var(--primary100);}
 .hidden {border:0; clip:rect(0 0 0 0); height:1px; margin:-1px; overflow:hidden; padding:0;position:absolute; width:1px;}
 .none {display:none;}
-.txt_alingC { text-align: center; }
+.txt_center { text-align: center; }
 
 /* -----------------------------------------------
 	[CONTENT] 버튼유형

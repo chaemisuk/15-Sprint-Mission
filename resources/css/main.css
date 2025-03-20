@@ -92,7 +92,8 @@ footer {
       display: flex;
       justify-content: center;
       align-items: center;
-      backdrop-filter: blur(0.6rem);
+      -webkit-backdrop-filter: blur(0.6rem);
+              backdrop-filter: blur(0.6rem);
     }
   
     .unsupported-screen > p {

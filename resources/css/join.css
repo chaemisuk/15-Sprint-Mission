@@ -34,9 +34,3 @@
   .login_container { max-width: 40rem; transition:all .6s ease-in-out;}
   .login_container .log_tit { max-width: 58%; }
 }
-
-
-@media screen and (max-width: 374px) {
-
-
-}
