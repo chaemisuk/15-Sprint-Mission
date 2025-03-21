@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
       } else {
         loginButton.disabled = true;
         loginButton.title = '선택안됨';
-        loginButton.textContent = '로그인 준비중';
+        loginButton.textContent = '로그인 준비중...';
       }
     }
     
@@ -188,7 +188,7 @@ document.addEventListener('DOMContentLoaded', () => {
       } else {
         signupButton.disabled = true;
         signupButton.title = '선택안됨';
-        signupButton.textContent = '회원가입';
+        signupButton.textContent = '회원가입 준비중...';
       }
     }
   }

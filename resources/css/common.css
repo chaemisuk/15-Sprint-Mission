@@ -106,3 +106,4 @@ input[type=password]:focus-within + .toggle-password { opacity: 1; transition:al
 .inp_txt > .link_t1 {margin:0 -0.5rem}
 .inp_txt > .inp_ty {flex:1;text-align:right;font:var(--font_roboto_15);}
 .inp_txt:focus-within {outline:0;border-color:var(--line4);}
+.container-wrapper {display: flex; align-items: center; justify-content: center; height: 100vh; background-color: #9fe7fd; color: #fff; }
