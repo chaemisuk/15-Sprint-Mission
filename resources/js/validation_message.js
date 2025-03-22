@@ -7,3 +7,5 @@ export const ErrorMessage = {
   passwordMismatch: '비밀번호가 일치하지 않습니다.',
   confirmPasswordRequired: '비밀번호를 다시 한번 입력해주세요.',
 };
+
+
